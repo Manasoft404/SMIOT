@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SMIOT</string>
+    <string name="button_signin_with_password">Connexion</string>
+    <string name="text_dont_have_account">j\'ai pas de compte ?</string>
+    <string name="button_create_account">Creer</string>
+    <string name="image_view_logo_image">Logo Image</string>
 </resources>
