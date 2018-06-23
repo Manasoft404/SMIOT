@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#83CF1C</color>
+    <color name="colorPrimaryDark">#5AB831</color>
+    <color name="colorAccent">#DF4A32</color>
+
+    <color name="statusBarColor">@color/blue</color>
+    <color name="navigationBarColor">@android:color/black</color>
+    <color name="drawerArrowColor">@android:color/white</color>
+
+    <color name="blue">#303F9F</color>
+    <color name="green_teal">#009688</color>
+    <color name="red">#F44336</color>
+    <color name="lime">#CDDC39</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="purple">#673AB7</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="orange">#e95609</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="primary_light">#BBDEFB</color>
+
+    //LovelyDialog
+    <color name="indigo">#3F51B5</color>
+    <color name="teal">#009688</color>
+    <color name="darkDeepOrange">#E64A19</color>
+    <color name="darkGreen">#388E3C</color>
+    <color name="darkBlueGrey">#455A64</color>
+    <color name="darkRed">#D32F2F</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="grey">#EDEEEF</color>
+    <color name="dark_green">#388E3C</color>
+
+    <color name="dark_grey">#AEAEAE</color>
+
+
+    <color name="light_black">#747474</color>
+    <color name="black">#616161</color>
+    <color name="google">#C6412C</color>
 </resources>
