@@ -1,2 +1,3 @@
 # SMIOT
 a mobile remote monitoring application dedicated to monitoring an organisation's premises and laboratories based on the Internet of Things
+we propose the design of a mobile application for remote monitoring of the premises and laboratories of an organisation against various incidents (fire, flood, air pollution, theft, intrusion, etc.) that may occur inside them, while increasing comfort through natural interfaces to remotely control the light and the various electrical devices and also visualise in real time certain environmental measurements such as temperature, humidity and air quality. 
